@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SoyMaloDerze
-- 👀 I’m interested in web development and web application 
-- 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on html and CSS projects 
-- 📫 How to reach me @gueroderze@gmail.com 
+- 🎓 I just completed a data analysis program at AltSchool Africa 
+- 📊 I’m passionate about uncovering insights and solving problems through data 
+- 🧠 Skilled in Python, Excel, SQL, and data visualization tools
+- 💞️ I’m looking forward to collaborating on data cleaning, analytics, and storytelling projects
+- 📫 How to reach me: ebokag@gmail.com 
 - 
 
 <!---
