@@ -7,6 +7,7 @@
 - 
 
 <!---
-SoyMaloDerze/SoyMaloDerze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SoyMaloDerze/SoyMaloDerze is a 📊data-driven repository showcasing my journey from AltSchool Africa into the world 
+of real-world data projects. 
 You can click the Preview link to take a look at your changes.
 --->
