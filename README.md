@@ -1,13 +1,69 @@
-- 👋 Hi, I’m @SoyMaloDerze
-- 🎓 I just completed a data analysis program at AltSchool Africa 
-- 📊 I’m passionate about uncovering insights and solving problems through data 
-- 🧠 Skilled in Python, Excel, SQL, and data visualization tools
-- 💞️ I’m looking forward to collaborating on data cleaning, analytics, and storytelling projects
-- 📫 How to reach me: ebokag@gmail.com 
-- 
+# 👋 Hi, I'm Godswill Eboka
 
-<!---
-SoyMaloDerze/SoyMaloDerze is a 📊data-driven repository showcasing my journey from AltSchool Africa into the world 
-of real-world data projects. 
-You can click the Preview link to take a look at your changes.
---->
+Software Engineer passionate about building scalable software products that solve real-world problems.
+
+## 💻 Tech Stack
+
+### Frontend
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- FastAPI
+- Python
+
+### Databases
+- PostgreSQL
+- MySQL
+- Supabase
+
+### Tools
+- Git
+- GitHub
+- Alembic
+- Vercel
+- Render
+
+---
+
+## 🚀 Featured Projects
+
+### 🏫 NewEra EduPortal *(Completed Client Project)*
+A comprehensive School Management System developed for New Era Baptist Group of Schools. The platform streamlines student enrollment, academic records, result management, finance, staff administration, and role-based access control.
+
+**Tech Stack:** React • TypeScript • Node.js • Express • PostgreSQL • Socket.IO • Supabase
+
+---
+
+### 💳 Splix *(In Development)*
+A fintech platform that helps users understand, manage, and split expenses intelligently through financial analytics and AI-powered insights.
+
+**Tech Stack:** React • Node.js • Tailwind CSS • PostgreSQL • TypeScript
+
+---
+
+### 🎮 LNK4 *(In Development)*
+A modern Connect Four platform featuring player progression, rewards, statistics, guest authentication, and a future online multiplayer experience.
+
+**Tech Stack:** React • TypeScript • FastAPI • Python • PostgreSQL • Alembic • Tailwind CSS
+
+---
+
+## 🌱 Currently Learning
+
+- Software Architecture
+- Scalable Backend Systems
+- Artificial Intelligence
+- Cloud Deployment
+
+---
+
+## 📫 Contact
+
+Email: **ebokag@gmail.com**
