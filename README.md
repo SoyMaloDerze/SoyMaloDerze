@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Godswill Eboka
+# 👋 Hi, I'm Godswill Eboka (@SoyMaloDerze)
 
-Software Engineer passionate about building scalable software products that solve real-world problems.
+Computer Engineering graduate and full-stack software developer passionate about building scalable web applications and solving real-world problems through technology.
 
 ## 💻 Tech Stack
 
@@ -29,6 +29,12 @@ Software Engineer passionate about building scalable software products that solv
 - Alembic
 - Vercel
 - Render
+- Jupyter Notebook
+- PowerBI
+- Excel
+
+### Certification
+- Data Aalytics, AltSchool Africa.
 
 ---
 
